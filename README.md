@@ -1,6 +1,6 @@
 # Scrum Master
 
-Faciliteer en ondersteun de samenwerking van eerste- en tweedejaars studenten binnen het team. 
+Faciliteer en ondersteun de samenwerking van eerste- en tweedejaars studenten binnen het team.   
 De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd/scrum-master/blob/main/docs/INSTRUCTIONS.md)
 
 

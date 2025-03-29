@@ -1,9 +1,8 @@
-> _Fork_ deze deeltaak en ga aan de slag.
-> De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/url-naar-online-instructions)
+# Scrum Master
 
-# Naam deeltaak
+Faciliteer en ondersteun de samenwerking van eerste- en tweedejaars studenten binnen het team. 
+De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/scrum-master/blob/main/docs/INSTRUCTIONS.md)
 
-[Beschrijving van de deeltaak]
 
 ## Licentie
 

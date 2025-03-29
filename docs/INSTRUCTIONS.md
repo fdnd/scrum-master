@@ -13,7 +13,7 @@ Je leert hoe je een team optimaal ondersteunt bij het werken volgens de scrum-me
 
 ## Werkwijze  
 
-Als Scrum Master begeleid je een team tijdens de sprints. Je zorgt ervoor dat het scrum-proces goed wordt gevolgd en dat het team zonder belemmeringen kan werken. Je organiseert de dagelijkse stand-ups, sprint reviews met de opdrachtgever en neemt de lead bij de retrospectives. Daarnaast help je het team bij het verbeteren van samenwerking.  
+Als Scrum Master begeleid je een team tijdens de sprints. Je zorgt ervoor dat het scrum-proces goed wordt gevolgd en dat het team zonder belemmeringen kan werken. Je organiseert de dagelijkse stand-ups, sprint reviews met de opdrachtgever en neemt de lead bij de retrospectives. 
 
 Je taken bestaan uit:  
 

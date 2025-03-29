@@ -1,108 +1,33 @@
+# Scrum Master  
 
-# [Deeltaak-naam]
+Faciliteer en ondersteun samenwerking binnen het team.
 
-[Beschrijving van de deeltaak]
+## Context  
 
-## Context
+Deze deeltaak voer je gedurende Semester 3 & 4 uit. 
+Tijdens de sprintplanning van Sprint 20 wordt de taak uitgelegd.  
 
-Deze deeltaak hoort bij sprint # [Sprintnaam]. 
-Dit is een deeltaak die je [individueel / in een team] uitvoert.
+## Doel van deze opdracht  
 
-In de workshop [[Workshopnaam](link)] wordt behandeld ... 
+Je leert hoe je een team optimaal ondersteunt bij het werken volgens de scrum-methodiek. Je faciliteert meetings, helpt obstakels te identificeren en weg te nemen, en draagt bij aan een efficiënte en productieve werkwijze binnen het team.  
 
-Deze deeltaak hoort bij de leertaak:
-- [[leertaak](link)]
+## Werkwijze  
 
+Als Scrum Master begeleid je een team tijdens de sprints. Je zorgt ervoor dat het scrum-proces goed wordt gevolgd en dat het team zonder belemmeringen kan werken. Je organiseert en faciliteert de dagelijkse stand-ups, sprint reviews met de opdrachtgever en bent betrokken bij de retrospectives. Daarnaast help je het team bij het verbeteren van samenwerking.  
 
-## Doel van deze opdracht
+Je taken bestaan uit:  
 
-Je leert hoe je ... 
+- Organiseren van dagelijkse stand-ups en de sprint reviews met de opdrachtgever  
+- Ondersteunen van het team bij het verwijderen van belemmeringen  
+- Helpen bij het opstellen en bewaken van de Definition of Done  
+- Stimuleren van continue verbetering van de code & het design van het project (quality assurance)  
+- Ondersteunen bij het plannen en prioriteren van taken binnen de sprint en het op orde houden van de FDND Agency Backlog. 
 
+## Definition of Done  
 
-## Werkwijze
+Deze opdracht is done als je:  
 
-![Opdrachtomschrijving](opdrachtomschrijving.png)
-
-*Hoe pak je dit aan, in welke fases van de DLC*
-
-Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
-
-### Analyseren
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-### Ontwerpen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-
-### Bouwen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-### Integreren
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-- 
-### Testen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-## Criteria
-
-Focus sprint # - De focus van deze sprint ligt op ...
-
-Deze deeltaak hoort bij het gedragscriterium:  
-...
-
-Deze opdracht is done als:
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
+- [ ] De Scrum-events (stand-ups, review, retrospective) hebt georganiseerd 
+- [ ] Het team hebt geholpen bij het identificeren en oplossen van belemmeringen
+- [ ] Het team hebt geholpen bij het verbeteren van het design & de code van het project
+- [ ] Hebt bijgedragen aan het verbeteren van het teamproces en samenwerking  

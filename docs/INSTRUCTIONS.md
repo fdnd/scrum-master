@@ -1,6 +1,6 @@
 # Scrum Master  
 
-Faciliteer en ondersteun samenwerking binnen het team.
+Faciliteer en ondersteun de samenwerking van eerste- en tweedejaars studenten binnen het team.
 
 ## Context  
 
